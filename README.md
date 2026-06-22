@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 
+
+Just a guy learning Ethical Hacking.
+Currently in Web Penetration Testing.
+
+Disclaimer: 
+I'm not really the biggests fan of Agents, I like to do stuff myself to learn. 
+Occasionally I use LLMs for explainations, research and to generate some simple frontend code etc.
+
 
 <!--
 **Cro33ha1r/Cro33ha1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
