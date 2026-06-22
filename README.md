@@ -1,11 +1,12 @@
 ## Hi there 
 
-Just a guy learning Ethical Hacking.
-Currently in Web Penetration Testing.
-
-Disclaimer: 
-I'm not really the biggests fan of Agents, I like to do stuff myself to learn. 
-Occasionally I use LLMs for explainations, research and to generate some simple frontend code etc.
+Just a guy learning Ethical Hacking. <br>
+Currently in Web Penetration Testing. <br>
+<br>
+Disclaimer: <br>
+I'm not really the biggests fan of Agents, I like to do stuff myself to learn and to understand how things work. <br>
+Occasionally I use LLMs for explainations, research and to generate some simple frontend code etc.<br>
+Otherwise I keep them out of my workflow. 
 
 
 <!--
